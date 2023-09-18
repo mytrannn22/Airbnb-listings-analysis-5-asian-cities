@@ -1,4 +1,4 @@
-# [Power BI] Airbnb Listings Analysis - 5 Asian Famous Tourism Cities
+# [Power BI] Airbnb Listings Analysis - 5 Asian Cities
 
 ## I. Introduction
 
