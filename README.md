@@ -4,13 +4,13 @@
 
 ### 1. Context
 
-Airbnb Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences. Started in 2007 with an air mattress in an extra room, Airbnb today has a market capitalization of over $90 billion with 7M+ listings, 4M+ hosts covering 100K cities and towns in 220+ countries and regions worldwide. [1](https://news.airbnb.com/about-us/) 
+Airbnb Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences. Started in 2007 with an air mattress in an extra room, Airbnb today has a market capitalization of over $90 billion with 7M+ listings, 4M+ hosts covering 100K cities and towns in 220+ countries and regions worldwide ([1](https://news.airbnb.com/about-us/)).
 
-However, recently, many countries around the world, including in Asia, have started to place restrictions on Airbnb, especially short-term rentals in order to counteract its negative effects on local residences (it has been accused of inflating house prices, pushing out locals, straining resources and fuelling overtourism) [2](https://www.euronews.com/travel/2023/06/11/italy-malaysia-usa-which-cities-and-countries-are-cracking-down-on-airbnb-style-rentals). These regulations have resulted in dramatic changes on listings and how it runs in different local markets.
+However, recently, many countries around the world, including in Asia, have started to place restrictions on Airbnb, especially short-term rentals in order to counteract its negative effects on local residences (it has been accused of inflating house prices, pushing out locals, straining resources and fuelling overtourism) ([2](https://www.euronews.com/travel/2023/06/11/italy-malaysia-usa-which-cities-and-countries-are-cracking-down-on-airbnb-style-rentals)). These regulations have resulted in dramatic changes on listings and how it runs in different local markets.
 
-For example, **Japan** enforced new rules in 2018 requiring Airbnbs be registered with the government and limited short-term rentals to 180 days per year. A few months after that, nearly 80% of Japan's Airbnbs (unregistered properties) were removed (originally at more than 62,000 has dropped to 13,800 after 3 months accross the country) [3](https://www.travelweekly-asia.com/Destination-Travel/Japan-s-unregistered-rentals-get-the-boot). Each property that is showing up today is playing by the rules.  In **Singapore**, there are currently no licensing requirements for Airbnb properties, however, property rentals must be at least 3 months long (for private properties) or 6 months long (for public properties - HDB). HDB flats also cannot be rented out to tourists [4](https://singaporelegaladvice.com/law-articles/is-airbnb-illegal-singapore).
+For example, **Japan** enforced new rules in 2018 requiring Airbnbs be registered with the government and limited short-term rentals to 180 days per year. A few months after that, nearly 80% of Japan's Airbnbs (unregistered properties) were removed (originally at more than 62,000 has dropped to 13,800 after 3 months accross the country) ([3](https://www.travelweekly-asia.com/Destination-Travel/Japan-s-unregistered-rentals-get-the-boot)). Each property that is showing up today is playing by the rules.  In **Singapore**, there are currently no licensing requirements for Airbnb properties, however, property rentals must be at least 3 months long (for private properties) or 6 months long (for public properties - HDB). HDB flats also cannot be rented out to tourists ([4](https://singaporelegaladvice.com/law-articles/is-airbnb-illegal-singapore)).
 
-Within this context, this project aims to provide broad audiences with the latest big pictures of Airbnb listings (Data dated Jun 2023) in some famous tourist-attracted cities in Asia including **Bangkok, Tokyo, Taipei, Hongkong** and **Singapore**. The project will anwser some questions such as: *How many listings and hosts are there is these cities? How many listings does each host have? Which listings type is more popular? Single-listings or multi-listings? Short-term or Long-term? What types of room are listed? How do the prices differ? etc.*
+Within this context, this project aims to provide broad audiences with the latest big pictures of Airbnb listings *(Data dated Jun 2023)* in some famous tourist-attracted cities in Asia including **Bangkok, Tokyo, Taipei, Hongkong** and **Singapore**. The project will anwser some questions such as: *How many listings and hosts are there is these cities? How many listings does each host have? Which listings type is more popular? Single-listings or multi-listings? Short-term or Long-term? What types of room are listed? How do the prices differ? etc.*
 
 ### 2. Dataset
 
@@ -64,6 +64,8 @@ The primary tool used for the analysis is Microsoft Power BI, which enables the 
 ## II. Final Report
 
 [MS PowerBI Link](https://app.powerbi.com/reportEmbed?reportId=7314c2cf-27de-4286-91c5-e5706b673c60&autoAuth=true&ctid=bc30914a-fec6-4dd0-adc0-5845114e6713)
+
+![airbnb-listings-analysis](https://github.com/mytrannn22/Airbnb-listings-analysis-5-asian-cities/assets/140190425/956a5bb7-4a40-4ea8-9623-ced32d5567ef)
 
 ## III. Key findings
 
