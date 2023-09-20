@@ -10,7 +10,11 @@ However, recently, many countries around the world, including in Asia, have star
 
 For example, **Japan** enforced new rules in 2018 requiring Airbnbs be registered with the government and limited short-term rentals to 180 days per year. A few months after that, nearly 80% of Japan's Airbnbs (unregistered properties) were removed (originally at more than 62,000 has dropped to 13,800 after 3 months accross the country) ([3](https://www.travelweekly-asia.com/Destination-Travel/Japan-s-unregistered-rentals-get-the-boot)). Each property that is showing up today is playing by the rules.  In **Singapore**, there are currently no licensing requirements for Airbnb properties, however, property rentals must be at least 3 months long (for private properties) or 6 months long (for public properties - HDB). HDB flats also cannot be rented out to tourists ([4](https://singaporelegaladvice.com/law-articles/is-airbnb-illegal-singapore)).
 
-Within this context, this project aims to provide broad audiences with the latest big pictures of Airbnb listings *(Data dated Jun 2023)* in some famous tourist-attracted cities in Asia including **Bangkok, Tokyo, Taipei, Hongkong** and **Singapore**. The project will anwser some questions such as: *How many listings and hosts are there is these cities? How many listings does each host have? Which listings type is more popular? Single-listings or multi-listings? Short-term or Long-term? What types of room are listed? How do the prices differ? etc.*
+Within this context, this project aims to provide broad audiences with the latest big pictures of Airbnb listings *(Data dated Jun 2023)* in some famous tourist-attracted cities in Asia including **Bangkok, Tokyo, Taipei, Hongkong** and **Singapore**. The project will anwser some questions such as: 
+1. *How many listings and hosts are there in each city? Single-listings or multi-listings? How many listings does each host have?*
+2. *What types of room are listed? Which one is the most popular?*
+3. *Which rental term is more popular? Short-term or Long-term?*
+4. *How do the prices differ between room types and cities?*
 
 ### 2. Dataset
 
